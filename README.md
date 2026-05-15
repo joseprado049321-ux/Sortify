@@ -1,6 +1,7 @@
 # Sortify
 Organiza tus archivos en simples clicks!!!
 # 🚀 Sortify // Organizador Inteligente y Recuperador de Datos
+<img width="502" height="384" alt="image" src="https://github.com/user-attachments/assets/7823c855-4dc6-4069-b81f-c2275899c7fb" />
 
 **Sortify** es una herramienta potente y ligera diseñada para poner orden en el caos de archivos y rescatar información perdida. Combina una lógica avanzada de organización con la robustez del motor PhotoRec.
 
